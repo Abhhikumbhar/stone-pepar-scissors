@@ -1,1 +1,1 @@
-# stone-pepar-scissors
+# stone-paper-scissors
